@@ -1,4 +1,4 @@
-# C++ Project : School Managment System
+# C++ Project : University Managment System
 
 ## Description
 
