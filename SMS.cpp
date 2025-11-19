@@ -99,7 +99,7 @@ int main(void)
    wcscpy(cfi.FaceName, L"Arial");
    SetCurrentConsoleFontEx(GetStdHandle(STD_OUTPUT_HANDLE), FALSE, &cfi);
 
-/* SCHOOL MANAGEMENT */
+/* UNIVERSITY MANAGEMENT */
    int i=0,j;
    char choice;
    string find;
@@ -112,7 +112,7 @@ int main(void)
     system("cls");
 
     cout<<"<><><><><><><><><><><><><><><><><><><><><><><><><><><><><><><><><><><><><><><><><><><><><><><><><><><><><><><><><>";
-    cout<<"\n\n\t\t\t\t\t\tSCHOOL MANAGEMENT SYSTEM\n\n";
+    cout<<"\n\n\t\t\t\t\t\tUNIVERSITY MANAGEMENT SYSTEM\n\n";
     cout<<"<><><><><><><><><><><><><><><><><><><><><><><><><><><><><><><><><><><><><><><><><><><><><><><><><><><><><><><><><>";
     cout<<"\n\n\t\t\t\t\t\t\tMAIN MENU\n\n";
     cout<<"Enter your choice: "<<endl;
