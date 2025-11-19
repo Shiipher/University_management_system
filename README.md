@@ -2,7 +2,7 @@
 
 ## Description
 
-This project displays a basic functionality of a School Management System
+This project displays a basic functionality of a University Management System
 
 ## Prerequisite
 
